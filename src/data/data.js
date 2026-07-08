@@ -6,55 +6,59 @@ import shop1 from '../assets/img/AJWPK/Home/new-arrivals/shop-01.png'
 import shop2 from '../assets/img/AJWPK/Home/new-arrivals/shop-02.png'
 import shop3 from '../assets/img/AJWPK/Home/new-arrivals/shop-03.png'
 import shop4 from '../assets/img/AJWPK/Home/new-arrivals/shop-04.png'
-import shop5 from '../assets/img/AJWPK/Products/img-5.png'
-import shop6 from '../assets/img/AJWPK/Products/img-6.png'
-import shop7 from '../assets/img/AJWPK/Products/img-7.png'
-import shop8 from '../assets/img/AJWPK/Products/img-8.png'
-import shop9 from '../assets/img/AJWPK/Products/img-9.png'
-import shop10 from '../assets/img/AJWPK/Products/img-10.png'
-import shop11 from '../assets/img/AJWPK/Products/img-11.png'
-import shop12 from '../assets/img/AJWPK/Products/img-12.png'
-import shop13 from '../assets/img/AJWPK/Products/img-13.png'
-import shop14 from '../assets/img/AJWPK/Products/img-14.png'
-import shop15 from '../assets/img/AJWPK/Products/img-15.png'
+import shop5 from '../assets/img/all-products/img-5.png'
+import shop6 from '../assets/img/all-products/img-6.png'
+import shop7 from '../assets/img/all-products/img-7.png'
+import shop8 from '../assets/img/all-products/img-8.png'    
+import shop9 from '../assets/img/all-products/img-9.png'
+import shop10 from '../assets/img/all-products/img-10.png'
+import shop11 from '../assets/img/all-products/img-11.png'
+import shop12 from '../assets/img/all-products/img-12.png'
+import shop13 from '../assets/img/all-products/img-13.png'
+import shop14 from '../assets/img/all-products/img-14.png'
+import shop15 from '../assets/img/all-products/img-15.png'
 import shop16 from '../assets/img/AJWPK/Products/img-16.png'
-import shop17 from '../assets/img/AJWPK/Products/img-17.png'
-import shop18 from '../assets/img/AJWPK/Products/img-18.png'
-import shop19 from '../assets/img/AJWPK/Products/img-19.png'
-import shop20 from '../assets/img/AJWPK/Products/img-20.png'
-import shop21 from '../assets/img/AJWPK/Products/img-21.png'
-import shop22 from '../assets/img/AJWPK/Products/img-22.png'
-import shop23 from '../assets/img/AJWPK/Products/img-23.png'
-import shop24 from '../assets/img/AJWPK/Products/img-24.png'
-import shop25 from '../assets/img/AJWPK/Products/img-25.png'
-import shop26 from '../assets/img/AJWPK/Products/img-26.png'
-import shop27 from '../assets/img/AJWPK/Products/img-27.png'
-import shop28 from '../assets/img/AJWPK/Products/img-28.png'
-import shop29 from '../assets/img/AJWPK/Products/img-29.png'
-import shop30 from '../assets/img/AJWPK/Products/img-30.png'
-import shop31 from '../assets/img/AJWPK/Products/img-31.png'
-import shop32 from '../assets/img/AJWPK/Products/img-32.png'
-import shop33 from '../assets/img/AJWPK/Products/img-33.png'
-import shop34 from '../assets/img/AJWPK/Products/img-34.png'
-import shop35 from '../assets/img/AJWPK/Products/img-35.png'
-import shop36 from '../assets/img/AJWPK/Products/img-36.png'
-import shop37 from '../assets/img/AJWPK/Products/img-37.png'
-import shop38 from '../assets/img/AJWPK/Products/img-38.png'
-import shop39 from '../assets/img/AJWPK/Products/img-39.png'
-import shop40 from '../assets/img/AJWPK/Products/img-40.png'
-import shop41 from '../assets/img/AJWPK/Products/img-41.png'
-import shop42 from '../assets/img/AJWPK/Products/img-42.png'
-import shop43 from '../assets/img/AJWPK/Products/img-43.png'
-import shop44 from '../assets/img/AJWPK/Products/img-44.png'
-import shop45 from '../assets/img/AJWPK/Products/img-45.png'
-import shop46 from '../assets/img/AJWPK/Products/img-46.png'
-import shop47 from '../assets/img/AJWPK/Products/img-47.png'
-import shop48 from '../assets/img/AJWPK/Products/img-48.png'
-import shop49 from '../assets/img/AJWPK/Products/img-49.png'
-import shop50 from '../assets/img/AJWPK/Products/img-50.png'
-import shop51 from '../assets/img/AJWPK/Products/img-51.png'
-import shop53 from '../assets/img/AJWPK/Products/img-53.png'
-import shop54 from '../assets/img/AJWPK/Products/img-54.png'
+import shop17 from '../assets/img/all-products/img-17.png'
+import shop18 from '../assets/img/all-products/img-18.png'
+import shop19 from '../assets/img/all-products/img-19.png'
+import shop20 from '../assets/img/all-products/img-20.png'
+import shop21 from '../assets/img/all-products/img-21.png'
+import shop22 from '../assets/img/all-products/img-22.png'
+import shop23 from '../assets/img/all-products/img-23.png'
+import shop24 from '../assets/img/all-products/img-24.png'
+import shop25 from '../assets/img/all-products/img-25.png'
+import shop26 from '../assets/img/all-products/img-26.png'
+import shop27 from '../assets/img/all-products/img-27.png'
+import shop28 from '../assets/img/all-products/img-28.png'
+import shop29 from '../assets/img/all-products/img-29.png'
+import shop30 from '../assets/img/all-products/img-30.png'
+import shop31 from '../assets/img/all-products/img-31.png'
+import shop32 from '../assets/img/all-products/img-32.png'
+import shop33 from '../assets/img/all-products/img-33.png'
+import shop34 from '../assets/img/all-products/img-34.png'
+import shop35 from '../assets/img/all-products/img-35.png'
+import shop36 from '../assets/img/all-products/img-36.png'
+import shop37 from '../assets/img/all-products/img-37.png'
+import shop38 from '../assets/img/all-products/img-38.png'
+import shop39 from '../assets/img/all-products/img-39.png'
+import shop40 from '../assets/img/all-products/img-40.png'
+import shop41 from '../assets/img/all-products/img-41.png'
+import shop42 from '../assets/img/all-products/img-42.png'
+import shop43 from '../assets/img/all-products/img-43.png'
+import shop44 from '../assets/img/all-products/img-44.png'
+import shop45 from '../assets/img/all-products/img-45.png'
+import shop46 from '../assets/img/all-products/img-46.png'
+import shop47 from '../assets/img/all-products/img-47.png'
+import shop48 from '../assets/img/all-products/img-48.png'
+import shop49 from '../assets/img/all-products/img-49.png'
+import shop50 from '../assets/img/all-products/img-50.png'
+import shop51 from '../assets/img/all-products/img-51.png'
+import shop52 from '../assets/img/all-products/img-52.png'
+import shop53 from '../assets/img/all-products/img-53.png'
+import shop54 from '../assets/img/all-products/img-54.png'
+import shop55 from '../assets/img/all-products/img-55.png'
+import shop56 from '../assets/img/all-products/img-56.png'
+
 
 
 
@@ -179,434 +183,451 @@ export const productList = [
         id:1,
         image:shop1,
         tag:'Hot Sale',
-        price:'$25.75',
-        name:'White Minimal Chair',
-        category:'side-tables'
+        price:'Rs.2,999.00',
+        name:'Plain Shoe Organizer Rack',
+        category:['side-tables', 'rack']
     },
     {
         id:2,
         image:shop2,
         tag:'NEW',
-        price:'$122.75',
-        name:'Preminu Luxury Sofa',
+        price:'Rs.3,500.00',
+        name:'Ziggy Zone Corner Storage Shelve Rack',
         category:'rack'
     },
     {
         id:3,
         image:shop3,
         tag:'10% OFF',
-        price:'$140.99',
-        name:'Table With Pops',
+        price:'Rs.5,000.00',
+        name:'Bedside Laptop Coffee Table',
         category:'coffee-table'
     },
     {
         id:4,
         image:shop4,
         tag:'',
-        price:'$122.75',
-        name:'Luxury Lamp for Wall',
-        category:'nesting-tables'
+        price:'Rs.5,250.00',
+        name:'Freestanding Shoe & Kitchen Rack Organizer',
+        category:'rack'
     },
-    {
+        {
         id:5,
         image:shop5,
-        tag:'Hot Sale',
-        price:'$140.99',
-        name:'White Minimal Chair',
-        category:'side-tables'
+        tag:'',
+        price:'Rs.9,000.00',
+        name:'3-Tier Shoe Storage Rack',
+        category:'rack'
     },
-    {
+         {
         id:6,
         image:shop6,
         tag:'',
-        price:'$122.75',
-        name:'Luxury Vase for Table',
-        category:''
+        price:'Rs.9,000.00',
+        name:'Accent Table (3 Tier)',
+        category:'side-tables'
     },
-    {
+         {
         id:7,
         image:shop7,
         tag:'',
-        price:'$122.75 - $140.99',
-        name:'New Modern Luxury Table with Pops Lorem ipsum Furniture',
-        category:'coffee-table'
+        price:'Rs.18,000.00',
+        name:'Banishe Corner Rack',
+        category:'rack'
     },
-    {
+       {
         id:8,
         image:shop8,
-        tag:'10% OFF',
-        price:'$122.75',
-        name:'Modern Logn Table',
-        category:'office-desk'
+        tag:'',
+        price:'Rs.5,000.00',
+        name:'Bedside Laptop Coffee Table',
+        category:''
     },
-    {
+       {
         id:9,
         image:shop9,
         tag:'',
-        price:'$122.75',
-        name:'Luxury Lamp for Wall',
+        price:'Rs.20,200.00',
+        name:'C Type Wooden Nesting Tables (Set of 3Pcs)',
         category:'nesting-tables'
     },
-    {
+       {
         id:10,
         image:shop10,
         tag:'',
-        price:'$122.75',
-        name:'Luxury Lamp for Wall',
-        category:'wardrobe'
+        price:'Rs.14,000.00',
+        name:'Circi Side Table with Round Metal Frame',
+        category:''
     },
-    {
+       {
         id:11,
         image:shop11,
         tag:'',
-        price:'$122.75',
-        name:'Luxury Lamp for Wall',
-        category:'nesting-tables'
+        price:'Rs.15,000.00',
+        name:'Console Table',
+        category:'console-table'
     },
-    {
+       {
         id:12,
         image:shop12,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'side-tables'
+        price:'Rs.13,000.00',
+        name:'Contemporary Console Table',
+        category:'console-table'
     },
        {
         id:13,
         image:shop13,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'rack'
+        price:'Rs.9,000.00',
+        name:'Douxlife Side End Table (2Tier)',
+        category:'side-tables'
     },
        {
         id:14,
-        image:shop14,
+        image:shop15,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'coffee-table'
+        price:'Rs.18,000.00',
+        name:'Eloise Bedroom Nesting Table Set of (3pcs)',
+        category:'nesting-tables'
     },
        {
         id:15,
-        image:shop15,
+        image:shop14,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:''
+        price:'Rs.8,500.00',
+        name:'End Sofa Side Table (2 Tier)-Special',
+        category:'side-tables'
     },
        {
         id:16,
-        image:shop16,
+        image:shop17,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'office-desk'
+        price:'Rs.6,000.00',
+        name:'Hickory Crown Sofa Bed Side Table',
+        category:'side-tables'
     },
        {
         id:17,
         image:shop17,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'wardrobe'
+        price:'Rs.9,000.00',
+        name:'3-Tier Shoe Storage Rack',
+        category:''
     },
        {
         id:18,
         image:shop18,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'side-tables'
+        price:'Rs.10,500.00',
+        name:'Joshy Corner Lounge Rack',
+        category:'rack'
     },
        {
         id:19,
         image:shop19,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'rack'
+        price:'Rs.5,250.00',
+        name:'Freestanding Shoe & Kitchen Rack Organizer',
+        category:''
     },
        {
         id:20,
         image:shop20,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'coffee-table'
+        price:'Rs.7,500.00',
+        name:'Juni Genre Lounge Side Coffee Table',
+        category:['side-tables', 'coffee-table']
     },
        {
         id:21,
         image:shop21,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:''
+        price:'Rs.13,000.00',
+        name:'Loafy Arm Bed Side Table',
+        category:'side-tables'
     },
        {
         id:22,
         image:shop22,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'office-desk'
+        price:'Rs.9,500.00',
+        name:'Lotus Moon Coffee Center Nesting Tables (Set of 2Pcs)',
+        category:['nesting-tables', 'coffee-table']
     },
        {
         id:23,
         image:shop23,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'wardrobe'
+        price:'Rs.6,000.00',
+        name:'Manor Park Nesting Centre Side Table',
+        category:'nesting-tables'
     },
        {
         id:24,
         image:shop24,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'side-tables'
+        price:'Rs.16,000.00',
+        name:'Marion Center Nesting Tables',
+        category:'nesting-tables'
     },
        {
         id:25,
         image:shop25,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'rack'
+        price:'Rs.17,500.00',
+        name:'Maywood Nesting Drawing Room Centre Tables (Set of 2)',
+        category:'nesting-tables'
     },
        {
         id:26,
         image:shop26,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'coffee-table'
+        price:'Rs.3,000.00',
+        name:'Modern Black Metal Candlestick (Set of2 pcs)',
+        category:''
     },
        {
         id:27,
         image:shop27,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'console-table'
+        price:'Rs.9,000.00',
+        name:'Modern C Table',
+        category:'side-tables'
     },
        {
         id:28,
         image:shop28,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'office-desk'
+        price:'Rs.7,999.00',
+        name:'Microwave Storage Shelf',
+        category:''
     },
        {
         id:29,
         image:shop29,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'wardrobe'
+        price:'Rs.15,000.00',
+        name:'Modern End Table with Shelf Base',
+        category:'side-tables'
     },
        {
         id:30,
         image:shop30,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'side-tables'
+        price:'Rs.13,500.00',
+        name:'Modern Laptop Side Table',
+        category:''
     },
-        {
+       {
         id:31,
         image:shop31,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'rack'
+        price:'Rs.16,500.00',
+        name:'Modern Nesting Coffee Tables (Set of 3Pcs)',
+        category:['nesting-tables', 'coffee-table']
     },
-        {
+       {
         id:32,
         image:shop32,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'coffee-table'
+        price:'Rs.11,500.00',
+        name:'Moon Dance Coffee Nesting Tables (Set of 2)',
+        category:['nesting-tables', 'coffee-table']
     },
-        {
+       {
         id:33,
         image:shop33,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:''
+        price:'Rs.13,000.00',
+        name:'Ohara Drawing Room Nesting Tables',
+        category:'nesting-tables'
     },
-        {
+       {
         id:34,
         image:shop34,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'office-desk'
+        price:'Rs.13,000.00',
+        name:'Olinmere Black Accent Nesting Table (Set of 3)',
+        category:'nesting-tables'
     },
-        {
+       {
         id:35,
         image:shop35,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'wardrobe'
+        price:'Rs.2,999.00',
+        name:'Plain Shoe Organizer Rack',
+        category:''
     },
-        {
+       {
         id:36,
         image:shop36,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
+        price:'Rs.9,500.00',
+        name:'Ottoman Bench Stool',
         category:'side-tables'
     },
-        {
+       {
         id:37,
         image:shop37,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'rack'
+        price:'Rs.6,200.00',
+        name:'Oval Coffee Side Table',
+        category:['side-tables', 'coffee-table']
     },
-        {
+     {
         id:38,
         image:shop38,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'coffee-table'
+        price:'Rs.17,300.00',
+        name:'Round Nesting Bedroom Side Tables (Set of 3)',
+        category:'nesting-tables'
     },
-        {
+  {
         id:39,
         image:shop39,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:''
+        price:'Rs.7,000.00',
+        name:'Round Side Table',
+        category:'side-tables'
     },
-        {
+     {
         id:40,
         image:shop40,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'office-desk'
+        price:'Rs.6,999.00',
+        name:'Shoe Keys Storage Organizer Rack',
+        category:'rack'
     },
-        {
+     {
         id:41,
         image:shop41,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'wardrobe'
+        price:'Rs.5,500.00',
+        name:'Sleek Line Laptop Table',
+        category:'side-tables'
     },
-        {
+     {
         id:42,
         image:shop42,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'side-tables'
+        price:'Rs.12,500.00',
+        name:'Sleek Round Tables',
+        category:''
     },
-        {
+     {
         id:43,
         image:shop43,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'rack'
+        price:'Rs.10,000.00',
+        name:'Sofa Arm Side Table',
+        category:'side-tables'
     },
-        {
+     {
         id:44,
         image:shop44,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'coffee-table'
+        price:'Rs.5,500.00',
+        name:'Spoza Nesting Tables',
+        category:'nesting-tables'
     },
-        {
+     {
         id:45,
         image:shop45,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:''
+        price:'Rs.6,500.00',
+        name:'Square End Table',
+        category:'side-tables'
     },
-        {
+     {
         id:46,
         image:shop46,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'office-desk'
+        price:'Rs.6,000.00',
+        name:'Straight laptop Bedroom Side Table',
+        category:'side-tables'
     },
-        {
+     {
         id:47,
         image:shop47,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'wardrobe'
+        price:'Rs.7,000.00',
+        name:'Strine Nesting Tables Set (2 Piece)',
+        category:'nesting-tables'
     },
-        {
+     {
         id:48,
         image:shop48,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'side-tables'
+        price:'Rs.10,500.00',
+        name:'TV Console Storage Table Decor',
+        category:''
     },
-        {
+     {
         id:49,
         image:shop49,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
+        price:'Rs.5,250.00',
+        name:'Twin Ledge Storage Kitchen Rack',
         category:'rack'
     },
-        {
+     {
         id:50,
         image:shop50,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'coffee-table'
+        price:'Rs.4,000.00',
+        name:'Uhud Lounge Living Room Side Table',
+        category:'side-tables'
     },
-        {
+     {
         id:51,
         image:shop51,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
+        price:'Rs.13,299.00',
+        name:' VECELO Storage Rack Decor',
+        category:'rack'
+    },
+     {
+        id:52,
+        image:shop52,
+        tag:'',
+        price:'Rs.8,500.00',
+        name:'Wesling Lounge Table',
+        category:'side-tables'
+    },
+     {
+        id:53,
+        image:shop53,
+        tag:'',
+        price:'Rs.5,500.00',
+        name:'Wooden Top Hairpin Center Table',
         category:''
     },
-        {
-        id:52,
-        image:shop51,
-        tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'office-desk'
-    },
-        {
+     {
         id:54,
         image:shop54,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'wardrobe'
+        price:'Rs.12,000.00',
+        name:'X-base lamp table',
+        category:'side-tables'
     },
-        {
+     {
         id:55,
-        image:shop54,
+        image:shop55,
         tag:'',
-        price:'$122.75',
-        name:'White Minimal Chair',
-        category:'nesting-tables'
+        price:'Rs.17,000.00',
+        name:'X-Base Sofa Side Table',
+        category:''
     },
+    {
+        id:56,
+        image:shop56,
+        tag:'',
+        price:'Rs.3,500.00',
+        name:'Ziggy Zone Corner Storage Shelve Rack',
+        category:''
+    },
+
 ]
 
 export const featureOne = [

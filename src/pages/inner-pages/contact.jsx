@@ -6,7 +6,7 @@ import FooterOne from "../../components/footer/footer-one";
 import ScrollToTop from "../../components/scroll-to-top";
 
 import bg from '../../assets/img/shortcode/breadcumb.jpg'
-import contactImg from '../../assets/img/thumb/contact-thumb.jpg'
+import contactImg from '../../assets/img/AJWPK/contact/about.jpg'
 import about from '../../assets/img/svg/about.svg'
 
 import Aos from "aos";
@@ -38,7 +38,7 @@ export default function Contact() {
                     </div>
                     <div className="max-w-[725px] w-full mx-auto lg:mx-0">
                         <div data-aos="fade-up">
-                            <img src={about} className="size-16" alt="" />
+                            {/* <img src={about} className="size-16" alt="" /> */}
                             <h3 className="leading-none font-medium mt-3 md:mt-6 text-2xl">Get in Touch</h3>
                             <p className="max-w-[474px] mt-3 md:mt-4 font-medium">We're here to address your inquiries, feedback, and partnership opportunities promptly and effectively. </p>
                         </div>

@@ -11,7 +11,12 @@ import Aos from "aos";
 export default function ProductCategory() {
   const { categoryName } = useParams();
   const filteredProducts = categoryName 
-    ? productList.filter(item => item.category === categoryName) 
+    ? productList.filter(item => {
+        if (Array.isArray(item.category)) {
+          return item.category.includes(categoryName);
+        }
+        return item.category === categoryName;
+      }) 
     : productList;
   
   // Convert kebab-case to Title Case for display

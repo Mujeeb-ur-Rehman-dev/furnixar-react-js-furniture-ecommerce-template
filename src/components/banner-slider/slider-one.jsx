@@ -1,6 +1,6 @@
 import img1 from '../../assets/img/shortcode/carousel/Summer.png'
-import img2 from '../../assets/img/AJWPK/Home/hero1-img.png'
-import img3 from '../../assets/img/AJWPK/Home/hero2-img.png'
+import img2 from '../../assets/img/hero/hero1.png'
+import img3 from '../../assets/img/hero/hero2.png'
 import { Link } from 'react-router-dom';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
@@ -46,8 +46,8 @@ export default function SliderOne() {
                                     <Link className="btn btn-outline" to="/shop-v1" data-text="Shop Now"><span>Shop Now</span></Link>
                                 </div>
                             </div>
-                            <div className="sm:max-w-[750px] w-full">
-                                <img className="slider-img" src={img2} alt="banner-slider" style={{height:'600px'}}/>
+                            <div className="sm:max-w-[750px] w-full mt-6 md:mt-12">
+                                <img className="slider-img" src={img2} alt="banner-slider"/>
                             </div>
                         </div>
                     </div>
@@ -89,8 +89,8 @@ export default function SliderOne() {
                                     <Link className="btn btn-outline" to="/shop-v1" data-text="Shop Now"><span>Shop Now</span></Link>
                                 </div>
                             </div>
-                            <div className="sm:max-w-[750px] w-full">
-                                <img className="slider-img" src={img3} alt="banner-slider" style={{height:'600px'}}/>
+                            <div className="sm:max-w-[750px] w-full mt-6 md:mt-12">
+                                <img className="slider-img" src={img3} alt="banner-slider"/>
                             </div>
                         </div>
                     </div>
